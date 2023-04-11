@@ -1,4 +1,4 @@
-<img min-width="450px" max-width="150" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://img.elo7.com.br/product/zoom/3E4A630/adesivos-penelope-charmosa-p-carros-moto-e-decoracoes-20cm-adesivos.jpg">
+<img min-width="450px" max-width="150" width="250" align="right" alt="Computador" style="border-radius:80px;" src="https://img.elo7.com.br/product/zoom/3E4A630/adesivos-penelope-charmosa-p-carros-moto-e-decoracoes-20cm-adesivos.jpg">
 
 <h1 align="center">Olá!</h1>
 <p>Estou em transição de carreira e atualmente estudo para me tornar uma Analista de Dados. Tenho formação na área de humanas, o que juntamente com o meu histórico profissional me trouxe um background de negócios com conhecimentos e vivência em diversos produtos financeiros.
